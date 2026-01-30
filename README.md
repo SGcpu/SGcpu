@@ -100,13 +100,14 @@
     <td width="50%" valign="top">
       <h3>🎨 FRONTEND & UI/UX</h3>
       <p>
-        <img src="https://img.shields.io/badge/React-Advanced-000000?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-intermediate-000000?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-Intermediate-000000?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Figma-Advanced-000000?style=flat-square&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-Intermediate-000000?style=flat-square&logo=figma&logoColor=white" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-Expert-000000?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-Expert-000000?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/TAILWINDCSS-Expert-000000?style=flat-square&logo=css3&logoColor=white" />
       </p>
       <h3>⚙️ BACKEND & CORE</h3>
       <p>
@@ -122,7 +123,7 @@
     <td width="50%" valign="top">
       <h3>💽 DATA & INFRASTRUCTURE</h3>
       <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-Advanced-000000?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-000000?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-Intermediate-000000?style=flat-square&logo=linux&logoColor=white" />
       </p>
       <p>
