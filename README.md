@@ -1,3 +1,5 @@
+[![Header](SGcpu_header.png)](https://codewithsg.netlify.app/)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=FULL%20STACK%20ENGINEER&fontSize=80&fontColor=ffffff&fontAlign=50&stroke=ffffff&strokeWidth=3" width="100%" />
 </div>
