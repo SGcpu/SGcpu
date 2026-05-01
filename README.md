@@ -152,34 +152,34 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/SGcpu/we_hack_WHLG02">LEGALPATHSHALA</a></h3>
-      <p><b>MODULE:</b> Digital Awareness Platform</p>
+      <h3><a href="https://gyan.fragnel.edu.in:5556/">COURSE MANAGEMENT PORTAL</a></h3>
+      <p><b>MODULE:</b> Institutional Infrastructure</p>
       <p><b>STATUS:</b> <img src="https://img.shields.io/badge/DEPLOYED-Live-success?style=flat-square&height=10" /></p>
-      <p>A comprehensive platform bridging the gap between legal resources and common citizens.</p>
-      <p><code>React</code> <code>Web Dev</code> <code>Hackathon</code></p>
+      <p>The official college portal I built to digitize academic workflows. It securely serves over 1,000 active students and faculty members.</p>
+      <p><code>Next.js</code> <code>Django REST</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗳️ <a href="https://github.com/StudentCouncilCRCE/CRMD_25">CRMD '25</a></h3>
-      <p><b>MODULE:</b> Event Management System</p>
-      <p><b>STATUS:</b> <img src="https://img.shields.io/badge/DEPLOYED-Live-success?style=flat-square&height=10" /></p>
-      <p>Official portal for the Student Council CRCE event, handling registration and information flow.</p>
-      <p><code>Web</code> <code>Management</code> <code>Live</code></p>
+      <h3><a href="https://github.com/SGcpu">FINANCIAL FRAUD DETECTION</a></h3>
+      <p><b>MODULE:</b> Multi-Agent ML Pipeline</p>
+      <p><b>STATUS:</b> <img src="https://img.shields.io/badge/WINNER-Hackcrypt_'26-ffd700?style=flat-square&height=10" /></p>
+      <p>A live multi-agent ML pipeline built to detect financial fraud in real-time. Secured 1st place at the Hackcrypt '26 30-hour hackathon.</p>
+      <p><code>FastAPI</code> <code>Gemini AI</code> <code>React Native</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤫 <a href="https://github.com/SGcpu/Stifle_app">STIFLE APP</a></h3>
-      <p><b>MODULE:</b> Application Development</p>
-      <p><b>STATUS:</b> <img src="https://img.shields.io/badge/DEV-Active-orange?style=flat-square&height=10" /></p>
-      <p>Personal project module currently under active development.</p>
-      <p><code>App Dev</code> <code>Experimental</code></p>
+      <h3><a href="https://bhojanam-vjjv.onrender.com/">BHOJANAM</a></h3>
+      <p><b>MODULE:</b> AI Wellness Platform</p>
+      <p><b>STATUS:</b> <img src="https://img.shields.io/badge/DEPLOYED-Live-success?style=flat-square&height=10" /></p>
+      <p>A full-stack wellness application that integrates external AI APIs to dynamically generate custom diet plans based on user biometrics.</p>
+      <p><code>Python</code> <code>Flask</code> <code>REST APIs</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AUTOMATION SCRIPTS</h3>
-      <p><b>MODULE:</b> Productivity Tools</p>
-      <p><b>STATUS:</b> <img src="https://img.shields.io/badge/RUNNING-Daily-blue?style=flat-square&height=10" /></p>
-      <p>Various Python scripts architected to handle chores and mundane tasks automatically.</p>
-      <p><code>Python</code> <code>Scripting</code> <code>Automation</code></p>
+      <h3><a href="https://github.com/StudentCouncilCRCE/CRMD_25">CRMD '25 (NATIONAL DEBATE)</a></h3>
+      <p><b>MODULE:</b> Event Management System</p>
+      <p><b>STATUS:</b> <img src="https://img.shields.io/badge/DEPLOYED-Live-success?style=flat-square&height=10" /></p>
+      <p>The official platform for the National Debate competition. Scaled using Redis caching to ensure zero downtime during traffic spikes of 1,000+ registrations.</p>
+      <p><code>React.js</code> <code>Node.js</code> <code>Redis</code></p>
     </td>
   </tr>
 </table>
