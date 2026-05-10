@@ -152,7 +152,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://gyan.fragnel.edu.in:5556/">COURSE MANAGEMENT PORTAL</a></h3>
+      <h3><a href="http://gyan.fragnel.edu.in:5555/">COURSE MANAGEMENT PORTAL</a></h3>
       <p><b>MODULE:</b> Institutional Infrastructure</p>
       <p><b>STATUS:</b> <img src="https://img.shields.io/badge/DEPLOYED-Live-success?style=flat-square&height=10" /></p>
       <p>The official college portal I built to digitize academic workflows. It securely serves over 1,000 active students and faculty members.</p>
