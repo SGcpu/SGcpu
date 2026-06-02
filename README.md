@@ -47,9 +47,10 @@
         </p>
     </td>
     <td width="50%" align="center" valign="top">
-       <img src="https://github-readme-stats.vercel.app/api?username=SGcpu&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_radius=0&include_all_commits=true&count_private=true" width="100%" />
-       <br/>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGcpu&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=0&langs_count=8" width="100%"/>
+       <a href="https://github.com/SGcpu">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SGcpu&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=FFDF00&text_color=000000&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SGcpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
     </td>
   </tr>
 </table>
@@ -175,11 +176,11 @@
       <p><code>Python</code> <code>Flask</code> <code>REST APIs</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/StudentCouncilCRCE/CRMD_25">CRMD '25 (NATIONAL DEBATE)</a></h3>
-      <p><b>MODULE:</b> Event Management System</p>
+      <h3><a href="https://github.com/SGcpu/AeroGraph/">AeroGraph</a></h3>
+      <p><b>MODULE:</b> Visual Agentic System Debugger</p>
       <p><b>STATUS:</b> <img src="https://img.shields.io/badge/DEPLOYED-Live-success?style=flat-square&height=10" /></p>
-      <p>The official platform for the National Debate competition. Scaled using Redis caching to ensure zero downtime during traffic spikes of 1,000+ registrations.</p>
-      <p><code>React.js</code> <code>Node.js</code> <code>Redis</code></p>
+      <p>An open-source visual debugger for multi-agent AI, featuring local replay, loop detection, and trace branching.</p>
+      <p><code>TypeScript</code> <code>Langchain</code> <code>Python</code></p>
     </td>
   </tr>
 </table>
